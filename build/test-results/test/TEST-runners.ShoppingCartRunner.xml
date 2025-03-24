@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runners.ShoppingCartRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-24T00:58:13" hostname="TAY" time="42.089">
+  <properties/>
+  <testcase name="Carrito de compras" classname="runners.ShoppingCartRunner" time="42.089"/>
+  <system-out><![CDATA[user standard_userpass secret_sauce
+
+Sauce Labs Bolt T-Shirt Name: Sauce Labs Bolt T-Shirt Desc: Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.Detail: $15.99
+
+Sauce Labs Bike Light Name: Sauce Labs Bike Light Desc: A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.Detail: $9.99
+
+Sauce Labs Fleece Jacket Name: Sauce Labs Fleece Jacket Desc: It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.Detail: $49.99
+Total products 3
+Detalle productos [Sauce Labs Bolt T-Shirt, Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt., $15.99, Sauce Labs Bike Light, A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included., $9.99, Sauce Labs Fleece Jacket, It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office., $49.99]
+Name P Sauce Labs Bolt T-Shirt
+Name P Sauce Labs Bike Light
+Name P Sauce Labs Fleece Jacket
+List items cart: [Sauce Labs Bolt T-Shirt, Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt., $15.99, Sauce Labs Bike Light, A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included., $9.99, Sauce Labs Fleece Jacket, It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office., $49.99]
+Con ceil: 6,08 tax: 6,08
+]]></system-out>
+  <system-err><![CDATA[mar 23, 2025 7:58:22 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find CDP implementation matching 134
+mar 23, 2025 7:58:22 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+ADVERTENCIA: Unable to find version of CDP to use for 134.0.6998.118. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
